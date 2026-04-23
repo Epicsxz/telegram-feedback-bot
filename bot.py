@@ -1,5 +1,3 @@
-python bot.py
-
 from telegram import Update, InputMediaPhoto
 from telegram.ext import ApplicationBuilder, MessageHandler, filters, ContextTypes
 from datetime import datetime
